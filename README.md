@@ -39,3 +39,84 @@ This is to help you setup osTicket to be used by your organization. It's in the 
 explain
 </p>
 <br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
+
+<h3>testing</h3>
+<p>
+<image please>
+</p>
+<p>
+explain
+</p>
+<br />
