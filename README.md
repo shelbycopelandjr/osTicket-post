@@ -138,24 +138,15 @@ In the Admin panel, select the SLA section under the Manage tab and click the Ad
 <a href="https://imgur.com/e2K5d5g"><img src="https://i.imgur.com/e2K5d5g.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+Help Topics are a good resource to use if there is a common problem or to establish some groud rules and criteria for things like SLA classification.
+</p>
+<p>
+In the Admin panel, select the Help Topics section under the Manage tab and click the Add New Help Topic button. Here you can name your topic and type in whatever information you feel is necessary to address the stated topic.
 </p>
 <br />
 
-<h3>testing</h3>
+<h3>Done</h3>
 <p>
-<image please>
-</p>
-<p>
-explain
-</p>
-<br />
-
-<h3>testing</h3>
-<p>
-<image please>
-</p>
-<p>
-explain
+That should be enough to get started with osTicket.
 </p>
 <br />
