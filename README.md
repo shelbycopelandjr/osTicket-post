@@ -46,6 +46,8 @@ If you see this:
 <a href="https://imgur.com/sXapVmR"><img src="https://i.imgur.com/sXapVmR.png" title="source: imgur.com" /></a>
 </p>
 Then You're in the AGENT panel and clicking this link will SEND YOU to the ADMIN panel.
+
+To help, I try to emphasize whether I'm talking about the Agent *PANEL*, Agents *TAB*, or Agents *SECTION*.
 <br/>
 
 
@@ -91,7 +93,7 @@ To create a Team, while in the admin panel, select the Agents *TAB*, the Teams s
 <a href="https://imgur.com/fM8pgNt"><img src="https://i.imgur.com/fM8pgNt.png" title="source: imgur.com" /></a>
 </p>
 <p>
-In the Admin Panel, select the Users section under the Settings tab. Here you can set things like Name formatting and if registration is required, among other things like account lockout policy.
+In the Admin Panel, select the Users section under the Settings tab. Here you can set things like Name formatting and if registration is required, among other things like account lockout policy. Be sure to save your changes!
 </p>
 <br />
 
@@ -103,7 +105,7 @@ In the Admin Panel, select the Users section under the Settings tab. Here you ca
 Agents are the people who answer the tickets and fix the issues plaguing your organization.
 </p>
 <p>
-
+In the Admin panel, select the Agents *TAB*, the Agents *SECTION*, and click the Add New Agent button. Here, you enter your new agent's contact information, establish login information, what department the belong to, what role within that department, what abilities they have, and any teams they may be a part of.
 </p>
 <br />
 
@@ -112,7 +114,10 @@ Agents are the people who answer the tickets and fix the issues plaguing your or
 <a href="https://imgur.com/Zl9yWuG"><img src="https://i.imgur.com/Zl9yWuG.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+User are the people in the organization who, essentially, have the problems and create the tickets.
+</p>
+<p>
+To create a new user, in the Agent *PANEL*, select the Users section and click the Add User button. Here, you can enter their contact info and you're done.
 </p>
 <br />
 
@@ -121,7 +126,10 @@ explain
 <a href="https://imgur.com/IAeL4pu"><img src="https://i.imgur.com/IAeL4pu.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+Service Level Agreements (SLAs) are basically how you would classify a ticket based on importance and how fast it needs to be resolved.
+</p>
+<p>
+In the Admin panel, select the SLA section under the Manage tab and click the Add New SLA Plan button. Here, you can name your SLAs, determine your grace period (the time in which it needs to be resolved), and the schedule it falls under. Some tickets can fall under and SLA that, at some point, can be resolved on business days. Others may need to be resolved as soon as possible and have a stricter SLA with a smaller grace period and is active 24/7.
 </p>
 <br />
 
