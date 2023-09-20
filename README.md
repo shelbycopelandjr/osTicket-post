@@ -55,7 +55,10 @@ Then You're in the AGENT panel and clicking this link will SEND YOU to the ADMIN
 <a href="https://imgur.com/lbjfF8M"><img src="https://i.imgur.com/lbjfF8M.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+Roles are for designating a title and a set of priveleges necessary for whoever needs to do whatever. In other words, a person in a specific Role has all the abilities deemed necessary for that Role.
+</p>
+<p>
+While in the Admin Panel, you can create new roles by selecting the Agents *TAB*, selecting the Roles section, and clicking the Add New Role button. First, you name your role. Then, you decide what it has the ability to do. It may be best, if starting from scratch, to create a role for your account that can do absolutely everything.
 </p>
 <br />
 
@@ -64,7 +67,10 @@ explain
 <a href="https://imgur.com/PIN4H3i"><img src="https://i.imgur.com/PIN4H3i.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+Departments are used to make sure tickets of a specific variety can be sent to the department responsible for satisfying that ticket's conditions.
+</p>
+<p>
+While in the Admin panel, you can create new departments by selecting the Agents *TAB*, selecting the Departments section, and clicking the Add New Department button. In this space, you can name your department, set it's status, determine Service Level Agreements (SLAs), and much more.
 </p>
 <br />
 
@@ -73,7 +79,10 @@ explain
 <a href="https://imgur.com/U3RJtqP"><img src="https://i.imgur.com/U3RJtqP.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+Teams are for smaller groups within a department that only apply to certain agents within that department. For example, there may be many members in the IT department, but only a select few are chosen to be System Admins or Level III support.
+</p>
+<p>
+To create a Team, while in the admin panel, select the Agents *TAB*, the Teams section and click the Add New Team button. In here, you can designate a name for the team, the team lead, and the agents that you choose for that specific team.
 </p>
 <br />
 
@@ -82,7 +91,7 @@ explain
 <a href="https://imgur.com/fM8pgNt"><img src="https://i.imgur.com/fM8pgNt.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+In the Admin Panel, select the Users section under the Settings tab. Here you can set things like Name formatting and if registration is required, among other things like account lockout policy.
 </p>
 <br />
 
@@ -91,7 +100,10 @@ explain
 <a href="https://imgur.com/nEre4hc"><img src="https://i.imgur.com/nEre4hc.png" title="source: imgur.com" /></a>
 </p>
 <p>
-explain
+Agents are the people who answer the tickets and fix the issues plaguing your organization.
+</p>
+<p>
+
 </p>
 <br />
 
